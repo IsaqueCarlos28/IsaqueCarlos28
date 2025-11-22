@@ -18,9 +18,9 @@
 
 ## Projetos em destaque
 
-- [CRUD Clinica Estetica]([https://toqueai.com.br/](https://github.com/IsaqueCarlos28/Projeto-PI---TSI---2--semestre-)) – CRUD para clinica de Estética
-- [JAS Rede Cidada ]([https://suportededomingo.com.br/](https://github.com/IsaqueCarlos28/Projeto-JAS)) – Landing Page para projeto JAS da Rede Cidadã
-- [POKE -API]([https://codetrouble.com.br](https://github.com/IsaqueCarlos28/apiPokemon)) – Atividade acadêmica de consumo de API 
+- [CRUD Clinica Estetica](https://github.com/IsaqueCarlos28/Projeto-PI---TSI---2--semestre-) – CRUD para clinica de Estética
+- [JAS Rede Cidada ](https://github.com/IsaqueCarlos28/Projeto-JAS) – Landing Page para projeto JAS da Rede Cidadã
+- [POKE -API](https://github.com/IsaqueCarlos28/apiPokemon) – Atividade acadêmica de consumo de API 
 
 ## Contato
 
