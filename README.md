@@ -18,9 +18,9 @@
 
 ## Projetos em destaque
 
-- [Toque AI](https://toqueai.com.br/) – Plataforma de QR Code para identificação e gestão de pets, pessoas e objetos
-- [Suporte de Domingo](https://suportededomingo.com.br/) – Soluções digitais e agendamento personalizado
-- [Code Trouble](https://codetrouble.com.br) – Comunidade aberta para desenvolvedores e troca de conhecimento
+- [CRUD Clinica Estetica]([https://toqueai.com.br/](https://github.com/IsaqueCarlos28/Projeto-PI---TSI---2--semestre-)) – CRUD para clinica de Estética
+- [JAS Rede Cidada ]([https://suportededomingo.com.br/](https://github.com/IsaqueCarlos28/Projeto-JAS)) – Landing Page para projeto JAS da Rede Cidadã
+- [POKE -API]([https://codetrouble.com.br](https://github.com/IsaqueCarlos28/apiPokemon)) – Atividade acadêmica de consumo de API 
 
 ## Contato
 
