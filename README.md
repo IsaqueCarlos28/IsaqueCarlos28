@@ -3,32 +3,14 @@
 
 **`Desenvolvedor FullStack`** 🧑‍💻 
 
-
----
-### Resumo
+## Sobre mim
 
 <p align="left"> 
   Desenvolvedor Web Júnior com foco em React.js, JavaScript (ES6+) e Laravel, com experiência no desenvolvimento de aplicações web escaláveis, consumo de APIs REST e integração com bancos de dados MySQL e SQLite. Conhecimento em arquitetura MVC, versionamento com Git/GitHub e metodologias ágeis (Scrum). Estudante de Sistemas para Internet (SENAC).
 </p>
 
----
-
 <p align="left">
-    <a href="www.linkedin.com/in/isaquecarlos">
-        <img 
-            alt="Linkedin" 
-            title="Confira meu Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/linkedin/IsaqueCarlos28?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="mailto:isaquecarlos2016@gmail.com">
-        <img 
-            alt= "E-mail"
-            title="send-me a Email" 
-            src="https://custom-icon-badges.demolab.com/badge/isaquecarlos@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
-    <a href="www.linkedin.com/in/isaquecarlos">
+  <a href="www.linkedin.com/in/isaquecarlos">
         <img 
             alt= "MY REPOS"
             title="Confira meus repositórios" 
@@ -52,33 +34,10 @@
 </p>
 
 ---
-## Sobre
-
-- Atuação em desenvolvimento full stack com JavaScript e PHP
-- Cursando Tecnplogia em Sistemas para Internet no Senac
-
-
-## Projetos em destaque
-
-- [CRUD Clinica Estetica](https://github.com/IsaqueCarlos28/Projeto-PI---TSI---2--semestre-) – CRUD para clinica de Estética
-- [JAS Rede Cidada ](https://github.com/IsaqueCarlos28/Projeto-JAS) – Landing Page para projeto JAS da Rede Cidadã
-- [POKE -API](https://github.com/IsaqueCarlos28/apiPokemon) – Atividade acadêmica de consumo de API 
-
-## Contato
-
-- [LinkedIn](www.linkedin.com/in/isaque-carlos-da-silva-melo-3492181a2)
-<!-- - [Suporte de Domingo](https://suportededomingo.com.br/)
-- [Portfólio](https://professorcorrea.com.br/) 
-- [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)-->
-
----
-
-> Sempre buscando Aprender!!
-
-
 
 ### 🤖 Linguagens e Tecnologias
 
+<p align="left">
 <img 
     align="left" 
     alt="HTML"
@@ -105,51 +64,11 @@
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
     align="left" 
@@ -169,31 +88,46 @@
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+</p>
 
-<br/>
-<br/>
+---
+
+
+## Projetos em destaque
+
+- [CRUD Clinica Estetica](https://github.com/IsaqueCarlos28/Projeto-PI---TSI---2--semestre-) – CRUD para clinica de Estética
+- [JAS Rede Cidada ](https://github.com/IsaqueCarlos28/Projeto-JAS) – Landing Page para projeto JAS da Rede Cidadã
+- [POKE -API](https://github.com/IsaqueCarlos28/apiPokemon) – Atividade acadêmica de consumo de API 
+
+## Contato
+
+<p align="left"> 
+  <a href="www.linkedin.com/in/isaquecarlos">
+        <img 
+            alt="Linkedin" 
+            title="Confira meu Linkedin" 
+            src="https://custom-icon-badges.demolab.com/github/linkedin/IsaqueCarlos28?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="mailto:isaquecarlos2016@gmail.com">
+        <img 
+            alt= "E-mail"
+            title="send-me a Email" 
+            src="https://custom-icon-badges.demolab.com/badge/isaquecarlos@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
+        />
+    </a>
+</p>
+
+
+
+
+---
 
 ### 📊 Estatísticas
 
@@ -220,5 +154,8 @@
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 ---
+
+> Sempre buscando Aprender!!
+
 
 
