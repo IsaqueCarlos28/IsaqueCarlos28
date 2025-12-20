@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  <a href="www.linkedin.com/in/isaquecarlos">
+  <a href="https://github.com/IsaqueCarlos28?tab=repositories">
         <img 
             alt= "MY REPOS"
             title="Confira meus repositórios" 
