@@ -115,7 +115,7 @@
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=IsaqueCarlos28&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact&custom_title=Estatisticas%20do%20GitHub"
+  src="https://github-readme-stats.vercel.app/api?username=IsaqueCarlos28&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact"
 />
 
 <img 
@@ -125,15 +125,15 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCarlos28&theme=tokyonight&layout=compact&custom_title=Tecnologias%20Utilizadas&langs_count=9" 
 />
 </p>
+
 <br> <br>
-s
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=IsaqueCarlos28&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact&custom_title=Estatisticas%20do%20GitHub)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCarlos28&theme=tokyonight&layout=compact&custom_title=Tecnologias%20Utilizadas&langs_count=9)
-
+<br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
 <br> <br>
 
 ---
