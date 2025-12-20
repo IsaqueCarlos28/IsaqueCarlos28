@@ -101,10 +101,21 @@
 
 ## **🚀Projetos em destaque**
 
-- [CRUD Clinica Estetica](https://github.com/IsaqueCarlos28/Projeto-PI---TSI---2--semestre-) – CRUD para clinica de Estética
-- [JAS Rede Cidada ](https://github.com/IsaqueCarlos28/Projeto-JAS) – Landing Page para projeto JAS da Rede Cidadã
-- [POKE -API](https://github.com/IsaqueCarlos28/apiPokemon) – Atividade acadêmica de consumo de API 
+<p> 
+  <a href="https://github.com/IsaqueCarlos28/Projeto-Biblioteca">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IsaqueCarlos28&repo=Projeto-Biblioteca&theme=dracula" alt="readme-typing-svg">
+  </a>
+  <a href="https://github.com/IsaqueCarlos28/Projeto-JAS">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IsaqueCarlos28&repo=Projeto-JAS&theme=dracula" alt="readme-typing-svg">
+  </a>
+  <a href="https://github.com/IsaqueCarlos28/apiPokemon---React">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IsaqueCarlos28&repo=apiPokemon---React&theme=dracula" alt="readme-typing-svg">
+  </a>
 
+</p>
+
+<br>
+<br>
 
 ## **📊 Estatísticas**
 
