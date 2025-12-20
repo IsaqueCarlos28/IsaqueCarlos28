@@ -115,7 +115,7 @@
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=IsaqueCarlos28&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact"
+  src="https://github-readme-stats.vercel.app/api?username=IsaqueCarlos28&show_icons=true&theme=tokyonight&layout=compact"
 />
 
 <img 
