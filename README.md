@@ -1,9 +1,11 @@
-# Isaque Carlos 
+# **Isaque Carlos** 
 
 
-**`Desenvolvedor FullStack`** 🧑‍💻 
+ **`Desenvolvedor FullStack`**  
 
-## Sobre mim
+## **📖Sobre mim**
+
+### 🧑‍💻Resumo
 
 <p align="left"> 
   Desenvolvedor Web Júnior com foco em React.js, JavaScript (ES6+) e Laravel, com experiência no desenvolvimento de aplicações web escaláveis, consumo de APIs REST e integração com bancos de dados MySQL e SQLite. Conhecimento em arquitetura MVC, versionamento com Git/GitHub e metodologias ágeis (Scrum). Estudante de Sistemas para Internet (SENAC).
@@ -96,17 +98,15 @@
 </p>
 <br><br>
 
----
 
-## Projetos em destaque
+## **🚀Projetos em destaque**
 
 - [CRUD Clinica Estetica](https://github.com/IsaqueCarlos28/Projeto-PI---TSI---2--semestre-) – CRUD para clinica de Estética
 - [JAS Rede Cidada ](https://github.com/IsaqueCarlos28/Projeto-JAS) – Landing Page para projeto JAS da Rede Cidadã
 - [POKE -API](https://github.com/IsaqueCarlos28/apiPokemon) – Atividade acadêmica de consumo de API 
 
----
 
-### 📊 Estatísticas
+## **📊 Estatísticas**
 
 <p>
 
