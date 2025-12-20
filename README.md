@@ -33,68 +33,70 @@
     </a>
 </p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+  <img 
+      align="left" 
+      alt="HTML"
+      title="HTML" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="CSS" 
+      title="CSS"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="React"
+      title="React" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="PHP" 
+      title="PHP"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Laravel" 
+      title="Laravel"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Git" 
+      title="Git"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
 </p>
+<br><br>
+
+
 
 ---
 
@@ -105,24 +107,7 @@
 - [JAS Rede Cidada ](https://github.com/IsaqueCarlos28/Projeto-JAS) – Landing Page para projeto JAS da Rede Cidadã
 - [POKE -API](https://github.com/IsaqueCarlos28/apiPokemon) – Atividade acadêmica de consumo de API 
 
-## Contato
 
-<p align="left"> 
-  <a href="www.linkedin.com/in/isaquecarlos">
-        <img 
-            alt="Linkedin" 
-            title="Confira meu Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/linkedin/IsaqueCarlos28?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="mailto:isaquecarlos2016@gmail.com">
-        <img 
-            alt= "E-mail"
-            title="send-me a Email" 
-            src="https://custom-icon-badges.demolab.com/badge/isaquecarlos@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
-</p>
 
 
 
