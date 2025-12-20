@@ -1,8 +1,8 @@
 <h1 align="center">Isaque Carlos </h1>
 
-<p align="center">
+<h3 align="center">
   Desenvolvedor Full Stack 
-</p>
+</h3>
 
 <p align="left"> 
   Descrição
