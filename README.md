@@ -96,21 +96,13 @@
 </p>
 <br><br>
 
-
-
 ---
-
 
 ## Projetos em destaque
 
 - [CRUD Clinica Estetica](https://github.com/IsaqueCarlos28/Projeto-PI---TSI---2--semestre-) – CRUD para clinica de Estética
 - [JAS Rede Cidada ](https://github.com/IsaqueCarlos28/Projeto-JAS) – Landing Page para projeto JAS da Rede Cidadã
 - [POKE -API](https://github.com/IsaqueCarlos28/apiPokemon) – Atividade acadêmica de consumo de API 
-
-
-
-
-
 
 ---
 
@@ -122,19 +114,18 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=IsaqueCarlos28&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact&custom_title=Estatisticas%20do%20GitHub"
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCarlos28&theme=tokyonight&layout=compact&custom_title=Tecnologias%20Utilizadas&langs_count=9" 
+/>
 
 </p>
-
----
+<br> <br>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
