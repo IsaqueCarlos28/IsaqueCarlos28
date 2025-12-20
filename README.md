@@ -134,6 +134,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCarlos28&theme=tokyonight&layout=compact&custom_title=Tecnologias%20Utilizadas&langs_count=9" 
 />
 <br>
+<br>
 <img 
     align="left" 
     alt="GitHub Stats"  
