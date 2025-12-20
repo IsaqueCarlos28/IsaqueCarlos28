@@ -115,7 +115,7 @@
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=IsaqueCarlos28&show_icons=true&theme=tokyonight&layout=compact"
+  src="https://github-readme-stats.vercel.app/api?username=IsaqueCarlos28&show_icons=true&theme=tokyonight&layout=compact$include_all_commits=true&custom_title=Status%20do%20Github"
 />
 
 <img 
@@ -126,19 +126,6 @@
 />
 </p>
 
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-
----
-
-> Sempre buscando Aprender!!
 
 
 
