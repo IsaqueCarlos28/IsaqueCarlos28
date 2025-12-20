@@ -1,9 +1,9 @@
 # **Isaque Carlos** 
 
 
- **`Desenvolvedor FullStack`**  
+ ### **`Desenvolvedor FullStack`**  
 
-## **📖Sobre mim**
+## **📖SOBRE MIM**
 
 ### 🧑‍💻Resumo
 
@@ -99,7 +99,7 @@
 <br><br>
 
 
-## **🚀Projetos em destaque**
+## **🚀PROJETOS EM DESTAQUE**
 
 <p> 
   <a href="https://github.com/IsaqueCarlos28/Projeto-Biblioteca">
@@ -114,10 +114,8 @@
 
 </p>
 
-<br>
-<br>
 
-## **📊 Estatísticas**
+## **📊 ESTATISTICAS**
 
 <p>
 
@@ -128,12 +126,18 @@
   style="padding-right: 10px;" 
   src="https://github-readme-stats.vercel.app/api?username=IsaqueCarlos28&show_icons=true&theme=tokyonight&layout=compact$include_all_commits=true&custom_title=Status%20do%20Github"
 />
-
+<br>
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="220" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCarlos28&theme=tokyonight&layout=compact&custom_title=Tecnologias%20Utilizadas&langs_count=9" 
+/>
+<br>
+<img 
+    align="left" 
+    alt="GitHub Stats"  
+    src="./profile-3d-contrib/profile-night-view.svg" 
 />
 </p>
 
