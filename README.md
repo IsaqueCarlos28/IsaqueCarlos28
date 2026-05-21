@@ -57,6 +57,22 @@
   />
   <img 
       align="left" 
+      alt="CSS" 
+      title="CSS"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="CSS" 
+      title="CSS"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" 
+  />
+  <img 
+      align="left" 
       alt="JavaScript" 
       title="JavaScript"
       width="30px" 
